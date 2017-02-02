@@ -1,5 +1,5 @@
 ## ActivityLivecycle
-* id.sch.smktelkom_mlg.learn.activitylivecycle
+
 
 ## Identitas
 * Nama  : Arik Nur Khoiriyah
@@ -11,7 +11,7 @@
 ## Screenshot Aplikasi
 <p align="center">
   <img src="http://i64.tinypic.com/8xk6xz.jpg" width="350"/>
-</p>
+</p> <br>
 <p align="center">
   <img src="http://i67.tinypic.com/ifr43d.jpg" width="750"/>
 </p>
