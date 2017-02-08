@@ -10,8 +10,8 @@
 
 ## Screenshot Aplikasi
 <p align="center">
-  <img src="http://i64.tinypic.com/8xk6xz.jpg" width="350"/>
+  <img src="https://cloud.githubusercontent.com/assets/22126354/22718321/508aa202-edd2-11e6-98eb-2784be08a8e4.jpeg" width="350"/>
 </p> <br>
 <p align="center">
-  <img src="http://i67.tinypic.com/ifr43d.jpg" width="750"/>
+  <img src="http://i66.tinypic.com/2m76z9x.pn" width="750"/>
 </p>
